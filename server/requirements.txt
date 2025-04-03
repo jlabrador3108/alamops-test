@@ -1,0 +1,5 @@
+Flask
+flask-mongoengine
+dotenv
+datetime
+flask-cors

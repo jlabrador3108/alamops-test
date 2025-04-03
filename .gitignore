@@ -1,0 +1,8 @@
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+node_modules/
+*.log
+*.DS_Store  
